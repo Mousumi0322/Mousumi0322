@@ -1,15 +1,9 @@
 # Welcome to my GitHub profile
 ### Hi, I'm Mousumi Nayak 👋
 
-<!--
-**Mousumi0322/Mousumi0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Exploratory Data Analysis(EDA)
-- 📫 How to reach me: @mousuminayak0322@gmail.com
-- ⚡ Fun fact: I am a "WEEB".
--->
+-🌱 I’m currently learning Exploratory Data Analysis(EDA) and Deep Learning<br>
+-📫 How to reach me: mousuminayak0322@gmail.com <br>
+-⚡ Fun fact: I am a "WEEB". <br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mousumieee)
